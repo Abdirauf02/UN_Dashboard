@@ -1,0 +1,16 @@
+
+.skin-blue .main-header .logo {
+    background-color: #317da8;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+
+.skin-blue .main-header .navbar {
+    background-color: #317da8;
+}
+
+
+.skin-blue .treeview-menu>li>a {
+    color: rgb(140, 166, 177);
+}

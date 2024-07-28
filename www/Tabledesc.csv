@@ -1,0 +1,22 @@
+Column Number,Column Name,Column Description
+1,country_code,The country code of the respective country
+2,country,The name of the country
+3,year,The year of the data entry
+4,sdg_index_score,The overall SDG index score of the country
+5,goal_1_score,No Poverty
+6,goal_2_score,Zero Hunger
+7,goal_3_score,Good Health and Wellbeing
+8,goal_4_score,Quality Education
+9,goal_5_score,Gender Equality
+10,goal_6_score,Clean Water and Sanitation
+11,goal_7_score,Affordable and Clean Energy
+12,goal_8_score,Decent Work and Economic Growth
+13,goal_9_score,"Industry, Innovation, and Infrastructure"
+14,goal_10_score,Reduced Inequalities
+15,goal_11_score,Sustainable Cities and Communities
+16,goal_12_score,Responsible Consumption and Production
+17,goal_13_score,Climate Action
+18,goal_14_score,Life Below Water
+19,goal_15_score,Life on Land
+20,goal_16_score,"Peace, Justice, and Strong Institutions"
+21,goal_17_score,Partnerships for the Goals

@@ -12,11 +12,11 @@ library(shinya11y)
 sdg_data <- load("SDG_data.RData")
 
 #input table for user guide
-#A table for the Users guid 
+#A table for the Users guide 
 table1 <- read_csv("www/Tabledesc.csv")
 
 
-#provides the ditinct countries code
+#provides the distinct countries code
 sdg_new %>% 
   select(country_code) %>% 
   distinct(country_code) -> country_code_choice
